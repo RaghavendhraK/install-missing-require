@@ -1,0 +1,10 @@
+{
+  "name": "test-data",
+  "main": "index.coffee",
+  "version": "1.0.0",
+  "description": "Sample code to test the required plugins",
+  "dependencies": {
+    "q": "1.4.1",
+    "underscore": "1.8.3"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "install-missing-require",
+  "version": "1.0.0",
+  "description": "Install the modules used in the require",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raghavendra Karunanidhi <raghu.k@openly.co>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "2.0.0-rc.3",
+    "cli-color": "1.1.0",
+    "cli-table2": "0.2.0",
+    "fs-extra": "0.28.0",
+    "q": "1.4.1",
+    "underscore": "1.8.3"
+  }
+}
